@@ -1,3 +1,6 @@
 auto: true
 markdown: rdiscount
 pygments: true
+
+title: hayley.ws
+url: http://hayley.ws

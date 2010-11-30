@@ -1,1 +1,20 @@
-lame!
+---
+layout: default
+title: hayley.ws
+---
+
+<h2>Posts</h2>
+<ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<h2>Projects</h2>
+<ul>
+  <li><a href="http://yelyah.com">yelyah.com</a> - music</li>
+  <li><a href="http://www.wickedwx.com">wickedwx.com</a> - US severe weather</li>
+  <li><a href="http://theweather.at">theweather.at</a> - current weather conditions</li>
+  <li><a href="http://feedme.heroku.com">feedme</a> - a food photo journal</li>
+</ul>
+  
