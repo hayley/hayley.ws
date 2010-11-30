@@ -112,20 +112,20 @@ There are still a ton of apps on my paper list.
 One app I'm probably avoiding though is my to-do list software. I just don't want to know.
 
 
-[carbon-copy-cloner]: (http://www.bombich.com/)
-[wikipedia-launchers]: (http://en.wikipedia.org/wiki/Comparison_of_application_launchers#Mac_OS_X)
-[chrome]: (http://www.google.com/chrome/)
-[visor]: (http://visor.binaryage.com/)
-[SIMBL]: (http://www.culater.net/software/SIMBL/SIMBL.php)
-[steve-losh-zsh]: (http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
-[steve-losh-colors]: (http://stevelosh.com/blog/2009/03/candy-colored-terminal/)
-[oh-my-zsh]: (http://github.com/robbyrussell/oh-my-zsh)
-[monokai]: (http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/)
-[git-mac]: (http://code.google.com/p/git-osx-installer/downloads/list?can=3)
-[homebrew]: (http://mxcl.github.com/homebrew/)
-[rvm]: (http://rvm.beginrescueend.com/)
-[perian]: (http://perian.org/)
-[fuzzyclock]: (http://www.objectpark.org/FuzzyClock.html)
-[textmate]: (http://macromates.com/)
-[unarchiver]: (http://wakaba.c3.cx/s/apps/unarchiver.html)
-[burn]: (http://burn-osx.sourceforge.net/Pages/English/home.html)
+[carbon-copy-cloner]: http://www.bombich.com/
+[wikipedia-launchers]: http://en.wikipedia.org/wiki/Comparison_of_application_launchers#Mac_OS_X
+[chrome]: http://www.google.com/chrome/
+[visor]: http://visor.binaryage.com/
+[SIMBL]: http://www.culater.net/software/SIMBL/SIMBL.php
+[steve-losh-zsh]: http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/
+[steve-losh-colors]: http://stevelosh.com/blog/2009/03/candy-colored-terminal/
+[oh-my-zsh]: http://github.com/robbyrussell/oh-my-zsh
+[monokai]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
+[git-mac]: http://code.google.com/p/git-osx-installer/downloads/list?can=3
+[homebrew]: http://mxcl.github.com/homebrew/
+[rvm]: http://rvm.beginrescueend.com/
+[perian]: http://perian.org/
+[fuzzyclock]: http://www.objectpark.org/FuzzyClock.html
+[textmate]: http://macromates.com/
+[unarchiver]: http://wakaba.c3.cx/s/apps/unarchiver.html
+[burn]: http://burn-osx.sourceforge.net/Pages/English/home.html
