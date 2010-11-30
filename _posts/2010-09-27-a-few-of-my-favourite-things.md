@@ -70,7 +70,7 @@ In no true order, here are the other things I've installed *so far*. Perhaps, yo
 
 * I used [Steve Losh's color scheme][steve-losh-colors], which is from the [Monokai TextMate theme][monokai]. And for reference, here are the colors:
 
-<code>
+{% highlight bash %}
 Black: 0, 0, 0
 Red: 229, 34, 34
 Green: 166, 227, 45
@@ -79,7 +79,7 @@ Blue: 196, 141, 255
 Magenta: 250, 37, 115
 Cyan: 103, 217, 240
 White: 242, 242, 242
-</code>
+{% endhighlight %}
 
 * I used a dmg to install [git][git-mac]. I've used Mercurial too, but basically github.com is the killer "app" that sold me on using git.
 
@@ -87,11 +87,11 @@ White: 242, 242, 242
 
 * I installed [Ruby Version Manager (rvm)][rvm]. I had never used it before, but I had the impression that this would be the cleanest way to get Ruby 1.9.2 and Rails 3.0.0 installed on my mac. Installing ruby/rails with it was pretty painless:
 
-<code>
+{% highlight bash %}
 rvm install 1.9.2
 rvm 1.9.2 #switch to 1.9.2 (applies to current session only)
 gem install rails
-</code>
+{% endhighlight %}
 
 * [Perian][perian] is my choice for quickly getting the necessary codecs for divx/xvid playback installed.
 
