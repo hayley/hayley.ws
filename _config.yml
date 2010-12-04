@@ -1,5 +1,5 @@
 auto: true # tip: when I had bad syntax in a post, setting this to false actually made the error appear
-markdown: rdiscount
+markdown: kramdown #rdiscount
 pygments: true
 
 title: hayley.ws
