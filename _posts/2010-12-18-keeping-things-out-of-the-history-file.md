@@ -1,3 +1,4 @@
+---
 layout: post
 category: snippet
 title: keeping things out of your shell history file
