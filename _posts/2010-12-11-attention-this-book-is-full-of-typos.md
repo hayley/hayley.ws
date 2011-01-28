@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Attention: This Book Is Full of Typos"
-published: false
+published: true
 ---
-
-INSERT PICTURE HERE OR SOMETHING
+A review of Jim F. Kukral's *"Attention! This Book Will Make You Money: How to Use Attention-Getting Online Marketing to Increase Your Revenue"*.
 
 I have a thing for business books. I also have an absolute hatred for typos. Which is why this book pissed me off so much.
 
@@ -53,13 +52,13 @@ Perhaps I'm an idealist, but I thought that the printed book was supposed to be 
 * p249 - "The media wants a story. The want something juicy..." - presumably the flow of having said "the media" led to using "The" in the next sentence when "They" was intended.
 * p258 - "How many people have flown to Area 51 in Roswell, Nevada, to see for themselves if aliens do in fact exist?" - apparently, Kukral is mixing his alien folklore locations. Area 51 is in Nevada. Roswell is in New Mexico. I know, I know. It's easy to get the two mixed up considering that they're only a [mere 900 miles apart from one another](http://maps.google.com/maps?f=d&source=s_d&saddr=area+51&daddr=roswell,+nm&hl=en&geocode=FecpOAIdtt4Y-SHt4tDYB9rvNQ%3BFVmO_QEd8BrF-SlV7axlE2XihjF-18905Asb5A&mra=ls&sll=37.243448,-115.812378&sspn=0.180931,0.212517&ie=UTF8&t=h&z=6).
 
-## not as much as I thought?
+## not as much as I thought
 
 When I originally started going back through the book to find all of the typos I had notated, I felt sort of bad. The book wasn't "littered" with typos at all. I wasn't finding as many as I remembered seeing.
 
 But that was the first 100 pages.
 
-Which leads me to this theory that I've had because it seems like I've run into this a lot: the first part of the book will be *fairly* clean, but then there's this huge increase in typos towards later parts of the book.
+Which leads me to this theory that I've had because it seems like I've run into this a lot: the first part of a book will be *fairly* clean, but then there's this huge increase in typos towards later parts of the book.
 
 I have to figure that one of two things (or both) are happening in these circumstances.
 
@@ -70,20 +69,27 @@ I have to figure that one of two things (or both) are happening in these circums
 
 You suck. I actually liked this book. But because of all of the typos, I will forever remember it as the book littered with typos, rather than the book that had some really great information and idea generators on how to get attention.
 
-Somewhat paradoxically, the fact that I liked the book so much is why it's left such a bad taste in my mouth. See, had I not liked it, I would've quit reading it long ago. I wouldn't have encountered so many blatant typos. And this book wouldn't have become my perfect example of the downfall of the printed book.
+Somewhat paradoxically, *the fact that I liked the book so much is why it's left such a bad taste in my mouth*.
+
+See, had I not liked it, I would've quit reading it long ago. Which means I wouldn't have encountered so many blatant typos. And then this book wouldn't have become my perfect example of the downfall of the printed book.
 
 I just don't get it. Are publishers even utilizing proofreaders anymore? Or is a computer program the only thing giving the text a once-over before it's sent off?
 
 Yes, I'm over generalizing, because I do still read a fair amount of books that are *nearly* perfect (of the books I read, it's quite rare to find one with *zero* typos).
 
-Of course, maybe those books didn't have proofreaders either. Maybe they were just lucky enough to have authors that were good at doing their proofreading.
+Of course, maybe those books didn't have proofreaders either. Maybe they were just lucky enough to have authors that were good at doing their own proofreading.
 
-And if it's a money thing, I have two things to say to publishers.
+And if the lack of proofreaders is a money thing, I have two things to say to publishers.
 
 1. You expect me to place monetary value on something that you obviously didn't value yourselves?
 2. I'll bet you could find plenty of proofreaders who would be willing to work for just the cost of an advanced copy of the book. All you're out at that point is the cost of the book/shipping and the cost of having lost a potential sale.
 
 ## conclusion
 
-I should point out that, to the author's credit, if you ignore all the typos, it was actually pretty well written. I don't remember running into any klutzy or confusing sentences, just a whole bunch of stuff that should've been caught by a proofreader.
+I should point out that, to the author's credit, if you ignore all the typos, it was actually pretty well written. I don't remember running into any klutzy or confusing sentences, and if I were a different person, it would've been an absolute pleasure to read because I could've overlooked or completely missed all of the errors in the book.
 
+But typos stick out to me. They greatly impact my ability to enjoy a book. Like how breaking the fourth wall in a TV show or movie can take you out of the story, typos constantly remind me that I'm reading a *flawed* book. If it's fiction, errors take me out of the story. If it's non-fiction, those errors make me start to seriously question what else is completely wrong that *I'm* not catching. In short, it ruins a book's credibility for me.
+
+So if you ask me about this book a year from now, I won't remember the good bits.
+
+I'll remember that this book is full of typos.
