@@ -4,6 +4,8 @@ category: snippet
 title: the most important jekyll command
 teaser: "tl;dr: auto regen hides failures"
 ---
+*Update: per the [jekyll commit log](https://github.com/mojombo/jekyll/commits/master), a mid-December update seems to have fixed this.*
+
 More than anything, I seem to get bitten by jekyll *silently* failing on syntax errors when I have auto set to true.
 
 The most important flag you can learn is `--no-auto`. Like:
