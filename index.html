@@ -4,40 +4,42 @@ title: hayley.ws
 ---
 
 <div class="grid_6">
-<h2>Posts</h2>
-<ul class="posts">
-    {% for post in site.posts %}
-      {% comment %}The list item won't print if it's just a snippet.{% endcomment %}
-      {% if post.category == "snippet" %}
-      {% else %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+  <div id="posts">
+    <h2>Posts</h2>
+    <ul class="posts">
+        {% for post in site.posts %}
+          {% comment %}The list item won't print if it's just a snippet.{% endcomment %}
+          {% if post.category == "snippet" %}
+          {% else %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | downcase }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </div>
 
-<h2>Projects</h2>
-<ul>
-  <li><a href="http://yelyah.com">yelyah.com</a> - the singer/songwriter with minimal piano skills</li>
-  <li><a href="http://wickedwx.com">wickedwx.com</a> - US severe weather forecast</li>
-  <li><a href="http://laundryweather.com">laundryweather.com</a> - weather forecasts for laundry day</li>
-  <li><a href="http://theweather.at">theweather.at</a> - current weather conditions</li>
-  <li><a href="http://feedme.heroku.com">feedme</a> - a food photo journal</li>
-  <li><a href="http://drummer.heroku.com">drum hayley drum</a> - my rock band drumming scores</li>
-</ul>
+  <h2>Projects</h2>
+  <ul>
+    <li><a href="http://yelyah.com">yelyah.com</a> - the singer/songwriter with minimal piano skills</li>
+    <li><a href="http://wickedwx.com">wickedwx.com</a> - US severe weather forecast</li>
+    <li><a href="http://laundryweather.com">laundryweather.com</a> - weather forecasts for laundry day</li>
+    <li><a href="http://theweather.at">theweather.at</a> - current weather conditions</li>
+    <li><a href="http://feedme.heroku.com">feedme</a> - a food photo journal</li>
+    <li><a href="http://drummer.heroku.com">drum hayley drum</a> - my rock band drumming scores</li>
+  </ul>
 
 </div>
 
 <div class="grid_6">
-
-<h2>Snippets/Asides</h2>
-<dl>
-{% for post in site.categories.snippet %}
-  <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
-  {% comment %}{{ post.content | strip_html | truncatewords: 25 }}{% endcomment %}
-  <dd>{{ post.teaser }}
-    <a href="{{ post.url }}">more &rarr;</a></dd>
-{% endfor %}
-</dl>
-
+  <div id="snippets">
+    <h2>Snippets/Asides</h2>
+    <dl>
+    {% for post in site.categories.snippet %}
+      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+      {% comment %}{{ post.content | strip_html | truncatewords: 25 }}{% endcomment %}
+      <dd>{{ post.teaser }}
+        <!-- <a href="{{ post.url }}">more &rarr;</a></dd> -->
+    {% endfor %}
+    </dl>
+  </div>
 
 </div>

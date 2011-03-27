@@ -1,6 +1,10 @@
 body {
-  background: #F0EBE6; /* inspiration: http://www.colourlovers.com/palette/1373086/finishing_touch */
-  #color: blue;
+  /*background: #F0EBE6; /* inspiration: http://www.colourlovers.com/palette/1373086/finishing_touch */
+  background: #FFFFFF;
+  font-family: Palatino,"Palatino Linotype","Book Antiqua",Georgia,"Times New Roman",serif;
+  font-size: 18px;
+  word-spacing:.1em;
+  line-height: 1.5em;
 }
 
 a {
@@ -9,16 +13,31 @@ a {
 
 a:hover {
   color: white;
-  background: #99ADC2; /* generated from main background color on http://www.colorschemer.com/ */
-  padding: 2px;
+  /* background: #99ADC2; /* generated from main background color on http://www.colorschemer.com/ */
+  background: orange;
+  padding-top: 5px;
 }
 
 h1 {
   font-size: 10em;
+  word-spacing: 5em;
+  margin-top: 75px;
+  margin-bottom: 100px;
+}
+
+h1 a {
+  letter-spacing: 10px;
+}
+
+h2, h3, h4, h5, h6 {
+  line-height: 1em;
 }
 
 code {
-  #font-style: italic;
+  font-family: Consolas, "Lucida Console", monospace;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
 }
 
 pre {
@@ -44,4 +63,13 @@ blockquote {
   border-left: 2px solid #999;
   padding-left: 1em;
   background: white;
+}
+
+#posts span {
+  color: #999;
+  font-family: Consolas, "Lucida Console", monospace;
+}
+
+#snippets dd {
+  color: #777;
 }
